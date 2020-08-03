@@ -6,42 +6,28 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on 🧑‍🏫 Programming teacher
-- 🌱 I’m currently learning Figma, Laravel, CSS, Android
-- 👯 I’m looking to collaborate on Project based learning & Game based learning
-- 🤔 I’m looking for help with My repos
-- 💬 Ask me about HTML, CSS, JS & programming
-- 📫 How to reach me: and1res@hotmail.com
-- 😄 Pronouns: He/El
-- ⚡ Fun fact: I ❤️ programmming
+- 🔭 I’m currently working on Web programming / Actualmente estoy trabajando en Programación web
+- 🌱 I’m currently learning / Estoy aprendiendo: Figma, Laravel, CSS, Android
+- 👯 I’m looking to collaborate on Project based learning & Game based learning / Busco colaborar con aprendizaje basado en proyectos y aprendizaje basado en juegos
+- 🤔 I’m looking for help with My repos / Busco ayuda con mis repositorios
+- 💬 Ask me about / Preguntame acerca de: HTML, CSS, JS & programming 
+- 📫 How to reach me / Como contactarme: and1res@hotmail.com
+- ⚡ Fun fact / Dato gracioso: I ❤️ programmming / Progra ❤️ Amando
 
-### ¿Qué hago actualmente?
-	- Profesor de programación en la Universidad Pontificia Bolivariana
+🏆 Mis gustos
+- 👨‍💻 Programación (java, C#, javascript, php)
+- 🖼️ Graffiti / Stickers
+- 📚 Leer libros de tecnología e innovación
+- 💢 Comics (Fanzines, autobiografías, publicaciones independientes)
+- 🚲 Crossfit (Me gustan los deportes en general)
+- 🎤 Música lo que suene bueno, especialmente el RAP
 
-### Me puedes contactar, para preguntarme sobre: Programación, diseño gráfico, Medellín y muchas cosas más...
-
-- Correo: and1res@hotmail.com
-
-### Actualmente estoy estudiando
-- Figma
-- Laravel
-- CSS
-- Android
-
-### Mis gustos
-- Programación (java, C#, javascript, php)
-- Graffiti / Stickers
-- Leer libros de tecnología e innovación
-- Comics (Fanzines, autobiografías, publicaciones independientes)
-- Crossfit (Me gustan los deportes en general)
-- Música lo que suene bueno, especialmente el RAP
-
-### Frases
+📝 Frases
 
 - "I only smile in the dark, I only smile when it's complicated" Raybiez
 - "De lo que ves créete la mitad de lo que no ves no te creas nada" Kase O
 
-# Blog posts
+📺 Youtube channel
 <!-- BLOG-POST-LIST:START -->
 - [06 - Programacion Web - Ejercicio: md5 / localstorage](https://www.youtube.com/watch?v=pnRq-SXEBSU)
 - [Excel - Suma / Contar / Promedio / Si / Si.error](https://www.youtube.com/watch?v=jKW2BTknaWw)
