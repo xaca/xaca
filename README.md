@@ -6,13 +6,10 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Web programming / Actualmente estoy trabajando en Programación web
 - 🌱 I’m currently learning / Estoy aprendiendo: Figma, Laravel, CSS, Android
-- 👯 I’m looking to collaborate on Project based learning & Game based learning / Busco colaborar con aprendizaje basado en proyectos y aprendizaje basado en juegos
 - 🤔 I’m looking for help with My repos / Busco ayuda con mis repositorios
 - 💬 Ask me about / Preguntame acerca de: HTML, CSS, JS & programming 
 - 📫 How to reach me / Como contactarme: and1res@hotmail.com
-- ⚡ Fun fact / Dato gracioso: I ❤️ programmming / Progra ❤️ Amando
 
 🏆 Mis gustos
 - 👨‍💻 Programación (java, C#, javascript, php)
@@ -23,7 +20,6 @@ Here are some ideas to get you started:
 - 🎤 Música lo que suene bueno, especialmente el RAP
 
 📝 Frases
-
 - "I only smile in the dark, I only smile when it's complicated" Raybiez
 - "De lo que ves créete la mitad de lo que no ves no te creas nada" Kase O
 
