@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 - 💢 Comics (Fanzines, autobiografías, publicaciones independientes)
 - 🚲 Crossfit (Me gustan los deportes en general)
 - 🎤 Música lo que suene bueno, especialmente el RAP
-
+<!--
 📝 Frases
 - "I only smile in the dark, I only smile when it's complicated" Raybiez
 - "De lo que ves créete la mitad de lo que no ves no te creas nada" Kase O
-
+-->
 📺 Youtube channel
 <!-- BLOG-POST-LIST:START -->
 - [06 - Programacion Web - Ejercicio: md5 / localstorage](https://www.youtube.com/watch?v=pnRq-SXEBSU)
