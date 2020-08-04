@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 -->
 📺 Youtube channel
 <!-- BLOG-POST-LIST:START -->
+- [07 - Programacion web - Instalación wordpress 5 minutos #wp #wordpress](https://www.youtube.com/watch?v=jQ27WRJFdFw)
 - [13 - Dev Tools - github profile / Perfil de github #dev #tools #github #profile](https://www.youtube.com/watch?v=cGLtoha-ZtM)
 - [06 - Programacion Web - Ejercicio: md5 / localstorage](https://www.youtube.com/watch?v=pnRq-SXEBSU)
 - [Excel - Suma / Contar / Promedio / Si / Si.error](https://www.youtube.com/watch?v=jKW2BTknaWw)
 - [Excel - ¿Como funciona el porcentaje?](https://www.youtube.com/watch?v=zE7KfXwFtN8)
-- [Excel - Evaluación de expresiones #excel #precedencia #operadores](https://www.youtube.com/watch?v=m-OCD2hxhxE)
 <!-- BLOG-POST-LIST:END -->
