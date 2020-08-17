@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 -->
 📺 Youtube channel
 <!-- BLOG-POST-LIST:START -->
+- [Programacion Web - Entradas y paginas #wordpress #post #entrada #pagina #menu](https://www.youtube.com/watch?v=y_LKKiDig58)
 - [02 - Moodle - Crear Sopa de letras #moodle #sopadeletras](https://www.youtube.com/watch?v=-bMVBth89aI)
 - [08 - Programacion web - Wordpress - apariencia #wordpress #tema #plantilla](https://www.youtube.com/watch?v=dc2o-cMS9mk)
 - [07 - Programacion web - Instalación wordpress 5 minutos #wp #wordpress](https://www.youtube.com/watch?v=jQ27WRJFdFw)
 - [15 - Dev Tools - github profile / Perfil de github #dev #tools #github #profile](https://www.youtube.com/watch?v=cGLtoha-ZtM)
-- [06 - Programacion Web - Ejercicio: md5 / localstorage](https://www.youtube.com/watch?v=pnRq-SXEBSU)
 <!-- BLOG-POST-LIST:END -->
