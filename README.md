@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 -->
 📺 Youtube channel
 <!-- BLOG-POST-LIST:START -->
-- [11 - Android Studio - Platform Tools - adb #adb #android #tools](https://www.youtube.com/watch?v=NNNOWcWAUPQ)
+- [13 - Aplicaciones móviles - Configuración Vysor #vysor #android #mobile #dev](https://www.youtube.com/watch?v=ekjpZB6-9sI)
+- [12 - Aplicaciones móviles - Platform Tools - adb #adb #android #tools](https://www.youtube.com/watch?v=NNNOWcWAUPQ)
 - [10 - Programacion Web - Incrustar o Embeber contenido #wp #embeb](https://www.youtube.com/watch?v=UiIMkl7DBu4)
 - [9 - Programacion Web - Entradas y paginas #wordpress #post #entrada #pagina #menu](https://www.youtube.com/watch?v=y_LKKiDig58)
 - [02 - Moodle - Crear Sopa de letras #moodle #sopadeletras](https://www.youtube.com/watch?v=-bMVBth89aI)
-- [08 - Programacion web - Wordpress - apariencia #wordpress #tema #plantilla](https://www.youtube.com/watch?v=dc2o-cMS9mk)
 <!-- BLOG-POST-LIST:END -->
