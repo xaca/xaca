@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 -->
 📺 Youtube channel
 <!-- BLOG-POST-LIST:START -->
+- [21 - Curso Programación JAVA - Instalacion windows 10 - Win10 install](https://www.youtube.com/watch?v=5cScIi8bWuc)
 - [03 - Moodle - Recalificar examen #moodle #recalificar #cuestionario #examen](https://www.youtube.com/watch?v=qlZNoZQ0IuY)
 - [12 - Programacion Web - Instalación de plugin - All in One - wordpress  #export #import #wordpress](https://www.youtube.com/watch?v=F4SKqgNqE3E)
 - [14 - Aplicaciones móviles - Android Toast y Snackbar #android #toast #snackbar #ui #material](https://www.youtube.com/watch?v=WtTjyeYMduY)
 - [Creacion de Stickers para Whatsapp - #whatsapp #stickers #android #editar](https://www.youtube.com/watch?v=z9P9cv7yMa8)
-- [11 - Programacion Web - Remover Fondo #remover #fondo #imagen #jpg #png](https://www.youtube.com/watch?v=Tz9peO1Y6u8)
 <!-- BLOG-POST-LIST:END -->
