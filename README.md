@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 -->
 📺 Youtube channel
 <!-- BLOG-POST-LIST:START -->
+- [17 - Aplicaciones moviles - Proceso construcción #android #primeros #pasos](https://www.youtube.com/watch?v=f6XUjoC8oWs)
 - [19 - Programacion Web - Producto Variable #woocommerce #wordpress](https://www.youtube.com/watch?v=6KhzShwtl-A)
 - [18 - Programacion Web - PayU #pago #pasarela #payu #woocommerce](https://www.youtube.com/watch?v=Z2wJPbjPRBU)
 - [17 - Programacion Web - Woocommerce #wp #woocommerce #tienda](https://www.youtube.com/watch?v=OSnDbJFfKGU)
 - [16 - Programacion Web - IP Estática #aws #elastic #ip #ipv6](https://www.youtube.com/watch?v=O9zmbF4m_SY)
-- [16 - Aplicaciones móviles - Android Handler #ui #thread #handler #update](https://www.youtube.com/watch?v=_vN5CDOsHc0)
 <!-- BLOG-POST-LIST:END -->
