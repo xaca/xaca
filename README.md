@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 - [17 - Aplicaciones moviles - Proceso construcción #android #primeros #pasos](https://www.youtube.com/watch?v=f6XUjoC8oWs)
 - [19 - Programacion Web - Producto Variable #woocommerce #wordpress](https://www.youtube.com/watch?v=6KhzShwtl-A)
 - [18 - Programacion Web - PayU #pago #pasarela #payu #woocommerce](https://www.youtube.com/watch?v=Z2wJPbjPRBU)
-- [17 - Programacion Web - Woocommerce #wp #woocommerce #tienda](https://www.youtube.com/watch?v=OSnDbJFfKGU)
+- [17 - Programacion Web - Instalacion de Woocommerce #wp #woocommerce #tienda](https://www.youtube.com/watch?v=OSnDbJFfKGU)
 <!-- BLOG-POST-LIST:END -->
