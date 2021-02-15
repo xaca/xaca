@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 -->
 📺 Youtube channel
 <!-- BLOG-POST-LIST:START -->
+- [21 - Programacion web - SASS 2/2 #workflow #estructuras # variables](https://www.youtube.com/watch?v=xPnwrUU2EYA)
 - [20 - Programacion Web - SASS 1/2 #workflow #tarea #automatica #css](https://www.youtube.com/watch?v=7d7za2x9ILE)
 - [18 - Aplicaciones moviles - Publicación #tienda #android #google #play #console](https://www.youtube.com/watch?v=QsyOra_jVkM)
 - [17 - Aplicaciones moviles - Proceso construcción #android #primeros #pasos](https://www.youtube.com/watch?v=f6XUjoC8oWs)
 - [19 - Programacion Web - Producto Variable #woocommerce #wordpress](https://www.youtube.com/watch?v=6KhzShwtl-A)
-- [18 - Programacion Web - PayU #pago #pasarela #payu #woocommerce](https://www.youtube.com/watch?v=Z2wJPbjPRBU)
 <!-- BLOG-POST-LIST:END -->
