@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 -->
 📺 Youtube channel
 <!-- BLOG-POST-LIST:START -->
+- [03 - Navegación prototipo - Figma #prototype #navigation #animation](https://www.youtube.com/watch?v=u0NSd-4X-M8)
 - [02 - UI Kit - Figma #ui #figma #wireframes #prototipo](https://www.youtube.com/watch?v=6oZXOa1sRws)
 - [01 - Primeros pasos - Figma](https://www.youtube.com/watch?v=rJTPF4kWyGM)
 - [21 - Programacion web - SASS 2/2 #workflow #estructuras # variables](https://www.youtube.com/watch?v=xPnwrUU2EYA)
 - [20 - Programacion Web - SASS 1/2 #workflow #tarea #automatica #css](https://www.youtube.com/watch?v=7d7za2x9ILE)
-- [18 - Aplicaciones moviles - Publicación #tienda #android #google #play #console](https://www.youtube.com/watch?v=QsyOra_jVkM)
 <!-- BLOG-POST-LIST:END -->
