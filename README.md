@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 -->
 📺 Youtube channel
 <!-- BLOG-POST-LIST:START -->
+- [19 - Aplicaciones moviles - Aplicación híbrida #capacitor #cordova #javascript #html5](https://www.youtube.com/watch?v=hdVpAxR4d_I)
 - [03 - Moodle - Publicar video de youtube en foro #moodle #html #youtube](https://www.youtube.com/watch?v=Nt7GSqk4hCA)
 - [23 - Prorgamacion web - Gulp 2/2 #workflow #gulp #js #uglify](https://www.youtube.com/watch?v=U7a2lXKGgUc)
 - [22 - Programacion web - Gulp 1/2 #workflow​ #gulp #task #runner​](https://www.youtube.com/watch?v=6f-l2sdjRl8)
 - [03 - Navegación prototipo - Figma #prototype #navigation #animation](https://www.youtube.com/watch?v=u0NSd-4X-M8)
-- [02 - UI Kit - Figma #ui #figma #wireframes #prototipo](https://www.youtube.com/watch?v=6oZXOa1sRws)
 <!-- BLOG-POST-LIST:END -->
