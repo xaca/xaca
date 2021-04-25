@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 -->
 📺 Youtube channel
 <!-- BLOG-POST-LIST:START -->
+- [16 - Dev Tools - SCRUM / Metodología Ágil #scrum #agil #metodologia #proyecto #pbl #eduacion](https://www.youtube.com/watch?v=3keqD1lQQ38)
 - [01 python 101 - Instalación ambiente desarollo #python #programming #empezar](https://www.youtube.com/watch?v=4_dWAu4Nv6Y)
 - [03 - Javascript 101 - Condición #javascript #condition #boolean](https://www.youtube.com/watch?v=6LHv17m6cvk)
 - [05 - Genially - Creación de una presentación desde cero #genially #diseño #design #imagen #editar](https://www.youtube.com/watch?v=SAF5vYCQeTc)
 - [02 - Javascript 101 - Variables #var #const #let #declaracion #inicializacion #js](https://www.youtube.com/watch?v=cQscAQjovFg)
-- [01 - Javascript 101 - ¿Qué es javascript? #ide #node #empezar #primeros #pasos](https://www.youtube.com/watch?v=bF5CTKPd8To)
 <!-- BLOG-POST-LIST:END -->
