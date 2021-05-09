@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 -->
 📺 Youtube channel
 <!-- BLOG-POST-LIST:START -->
+- [05 Python 101 - Operador Ternario #short #ciruit #ternario #corto #circuito](https://www.youtube.com/watch?v=MJx--cpVO9Q)
 - [04 - Python 101 - Condicionales #if #else #elif #true #false #python #condicion](https://www.youtube.com/watch?v=_5va52FUjcg)
 - [03 - Python 101 -  Variables y operadores #python #variables #explicacion #programacion](https://www.youtube.com/watch?v=xeqH7iIylDQ)
 - [02 python 101 - Generalidades #terminal #python #vsc #shortcuts](https://www.youtube.com/watch?v=6Gq6tzxRWeA)
 - [16 - Dev Tools - SCRUM / Metodología Ágil #scrum #agil #metodologia #proyecto #pbl #eduacion](https://www.youtube.com/watch?v=3keqD1lQQ38)
-- [01 python 101 - Instalación ambiente desarollo #python #programming #empezar](https://www.youtube.com/watch?v=4_dWAu4Nv6Y)
 <!-- BLOG-POST-LIST:END -->
