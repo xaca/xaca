@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 -->
 📺 Youtube channel
 <!-- BLOG-POST-LIST:START -->
-- [07 Python 101- Formato salida #print #salida #formato #python](https://www.youtube.com/watch?v=Hg8cFbjX0Js)
 - [06 python 101 - Entrada de datos #io #input #entrada #casting](https://www.youtube.com/watch?v=zFrFGexHK2c)
+- [07 Python 101- Formato salida #print #salida #formato #python](https://www.youtube.com/watch?v=Hg8cFbjX0Js)
 - [05 Python 101 - Operador Ternario #short #ciruit #ternario #corto #circuito](https://www.youtube.com/watch?v=MJx--cpVO9Q)
 - [04 - Python 101 - Condicionales #if #else #elif #true #false #python #condicion](https://www.youtube.com/watch?v=_5va52FUjcg)
 - [03 - Python 101 -  Variables y operadores #python #variables #explicacion #programacion](https://www.youtube.com/watch?v=xeqH7iIylDQ)
