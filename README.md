@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 -->
 📺 Youtube channel
 <!-- BLOG-POST-LIST:START -->
+- [10 python 101 - Cadenas #string #python #cadena](https://www.youtube.com/watch?v=kxuuIDmjVPQ)
 - [09 python 101 - Listas #list #python #matriz #arreglo #estructura #fila #columna](https://www.youtube.com/watch?v=r7mRa4N4SyM)
 - [08 Python 101 - Ciclos #python #ciclos #for #while](https://www.youtube.com/watch?v=1lm7BshTPWo)
 - [07 Python 101- Formato salida #print #salida #formato #python](https://www.youtube.com/watch?v=Hg8cFbjX0Js)
 - [06 python 101 - Entrada de datos #io #input #entrada #casting](https://www.youtube.com/watch?v=zFrFGexHK2c)
-- [05 Python 101 - Operador Ternario #short #ciruit #ternario #corto #circuito](https://www.youtube.com/watch?v=MJx--cpVO9Q)
 <!-- BLOG-POST-LIST:END -->
