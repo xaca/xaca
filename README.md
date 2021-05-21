@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 -->
 📺 Youtube channel
 <!-- BLOG-POST-LIST:START -->
+- [12 Python 101  - Matematicas #python #math #matplotlib #plot #grafica](https://www.youtube.com/watch?v=2CdnVjwN8h0)
 - [11 python 101 - Funciones #funciones #python #def](https://www.youtube.com/watch?v=_xReHgdPJyM)
 - [10 python 101 - Cadenas #string #python #cadena](https://www.youtube.com/watch?v=kxuuIDmjVPQ)
 - [09 python 101 - Listas #list #python #matriz #arreglo #estructura #fila #columna](https://www.youtube.com/watch?v=r7mRa4N4SyM)
 - [08 Python 101 - Ciclos #python #ciclos #for #while](https://www.youtube.com/watch?v=1lm7BshTPWo)
-- [07 Python 101- Formato salida #print #salida #formato #python](https://www.youtube.com/watch?v=Hg8cFbjX0Js)
 <!-- BLOG-POST-LIST:END -->
