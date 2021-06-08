@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 -->
 📺 Youtube channel
 <!-- BLOG-POST-LIST:START -->
+- [22 - Curso Programación JAVA - Configuración Visual Studio Code - VSC Setup](https://www.youtube.com/watch?v=QryEL8A2oPI)
 - [14 python 101 -  Set y diccionarios #python #set #dict](https://www.youtube.com/watch?v=qSOyN-_3xoY)
 - [13 python 101 - Archivos #python #files #archivos #read #write #pandas](https://www.youtube.com/watch?v=ThdAj1LW4mE)
 - [12 Python 101  - Matematicas #python #math #matplotlib #plot #grafica](https://www.youtube.com/watch?v=2CdnVjwN8h0)
 - [11 python 101 - Funciones #funciones #python #def](https://www.youtube.com/watch?v=_xReHgdPJyM)
-- [10 python 101 - Cadenas #string #python #cadena](https://www.youtube.com/watch?v=kxuuIDmjVPQ)
 <!-- BLOG-POST-LIST:END -->
