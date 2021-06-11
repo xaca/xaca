@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 📺 Youtube channel
 <!-- BLOG-POST-LIST:START -->
 - [17 - Dev Tools - Github pages #github #pages #html #pagina](https://www.youtube.com/watch?v=chkAAMCzJ_0)
-- [22 - Curso Programación JAVA - Configuración Netbeans - Netbeans Setup](https://www.youtube.com/watch?v=gzk_1XjNAlk)
+- [23 - Curso Programación JAVA - Configuración Netbeans - Netbeans Setup](https://www.youtube.com/watch?v=gzk_1XjNAlk)
 - [22 - Curso Programación JAVA - Configuración Visual Studio Code - VSC Setup](https://www.youtube.com/watch?v=QryEL8A2oPI)
 - [14 python 101 -  Set y diccionarios #python #set #dict](https://www.youtube.com/watch?v=qSOyN-_3xoY)
 - [13 python 101 - Archivos #python #files #archivos #read #write #pandas](https://www.youtube.com/watch?v=ThdAj1LW4mE)
