@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 -->
 📺 Youtube channel
 <!-- BLOG-POST-LIST:START -->
+- [26 - Curso Programación JAVA - UML - Diagrama de clases #uml #clases #java #poo](https://www.youtube.com/watch?v=Ayn2G798g68)
 - [25 - Curso Programación JAVA - Abstracción, clases y objetos #clases #objetos #abstraccion #java](https://www.youtube.com/watch?v=7aLNIft-gy0)
 - [24 - Curso Programación JAVA - ArrayList y Collections #java #listas #array #list #sort #shuffle](https://www.youtube.com/watch?v=Jtr-shVNQyw)
 - [17 - Dev Tools - Github pages #github #pages #html #pagina](https://www.youtube.com/watch?v=chkAAMCzJ_0)
 - [23 - Curso Programación JAVA - Configuración Netbeans - Netbeans Setup](https://www.youtube.com/watch?v=gzk_1XjNAlk)
-- [22 - Curso Programación JAVA - Configuración Visual Studio Code - VSC Setup](https://www.youtube.com/watch?v=QryEL8A2oPI)
 <!-- BLOG-POST-LIST:END -->
