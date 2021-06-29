@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 📺 Youtube channel
 <!-- BLOG-POST-LIST:START -->
 - [31 - Curso Programación JAVA - Relaciones entre clases #uml #relacion #clases](https://www.youtube.com/watch?v=HfPVIhHydlw)
-- [29 - Curso Programación JAVA - Diagrama de casos de uso #case #uml #use #diagram](https://www.youtube.com/watch?v=setf5EB7A_I)
+- [30 - Curso Programación JAVA - Diagrama de casos de uso #case #uml #use #diagram](https://www.youtube.com/watch?v=setf5EB7A_I)
 - [29 - Curso Programación JAVA - Constructores #java #constructor](https://www.youtube.com/watch?v=ZKZRRVyt9dI)
 - [28 - Curso Programación JAVA - Valores por defecto #default #atributos #miembros #dato](https://www.youtube.com/watch?v=IfwVKdRFVFM)
 - [27 - Curso Programación JAVA - Creacion Clase #class #java](https://www.youtube.com/watch?v=a3ra1vG7dng)
