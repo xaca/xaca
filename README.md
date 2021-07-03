@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 -->
 📺 Youtube channel
 <!-- BLOG-POST-LIST:START -->
+- [35 - Curso Programación JAVA - Clase Abstracta #abstract #class #java](https://www.youtube.com/watch?v=yw7m2PgC89s)
 - [34 - Curso Programación JAVA - Sobreescritura y polimorfismo #polimorfismo #sobreescritura #java](https://www.youtube.com/watch?v=WjW2RFveEpo)
 - [33 - Curso Programación JAVA - Sobrecarga #constructores #metodos #java #sobrecarga](https://www.youtube.com/watch?v=CrEety6U_1o)
 - [32 - Curso Programación JAVA - Herencia #herencia #java #uml](https://www.youtube.com/watch?v=wribw1HE1Gk)
 - [31 - Curso Programación JAVA - Relaciones entre clases #uml #relacion #clases](https://www.youtube.com/watch?v=HfPVIhHydlw)
-- [30 - Curso Programación JAVA - Diagrama de casos de uso #case #uml #use #diagram](https://www.youtube.com/watch?v=setf5EB7A_I)
 <!-- BLOG-POST-LIST:END -->
