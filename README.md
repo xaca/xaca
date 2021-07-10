@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 -->
 📺 Youtube channel
 <!-- BLOG-POST-LIST:START -->
+- [42 - Curso Programación JAVA - JOptionPane #alert #mensaje #modal](https://www.youtube.com/watch?v=itKwHjBFbLE)
 - [41 - Curso Programación JAVA - JButton #button #listener](https://www.youtube.com/watch?v=8hJLeAuUTNI)
 - [40 - Curso Programación JAVA - Palabra reservada this y paquetes #this #package #java](https://www.youtube.com/watch?v=j2vYZz_6g3k)
 - [39 - Curso Programación JAVA - Layouts Basicos #layout #java](https://www.youtube.com/watch?v=4RkorV4cEQA)
 - [38  - Curso Programación JAVA - Modelo Vista Controlador #mvc #patron](https://www.youtube.com/watch?v=ekL0pxThUY4)
-- [37 - Curso Programación JAVA - Interfaz de usuario UI #ui #interfaz #usuario](https://www.youtube.com/watch?v=1eBJs3yYuG0)
 <!-- BLOG-POST-LIST:END -->
