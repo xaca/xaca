@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 -->
 📺 Youtube channel
 <!-- BLOG-POST-LIST:START -->
+- [47 - Curso Programación JAVA - JMenu #menu #item #look #feel #java](https://www.youtube.com/watch?v=W885Y6cunjA)
 - [46 - Curso Programación JAVA - JComboBox](https://www.youtube.com/watch?v=eqPwH06le3E)
 - [45 - Curso Programación JAVA - JRadioButton y JCheckBox #checkbox #radiobutton #buttongroup](https://www.youtube.com/watch?v=pV8_HDWZyY8)
 - [44 - Curso Programación JAVA - JPanel #panel #container #java](https://www.youtube.com/watch?v=-p1kjshWXAA)
 - [43 - Curso Programación JAVA - JLabel, JTextField, JPassowrd](https://www.youtube.com/watch?v=iLkZh2wNV58)
-- [42 - Curso Programación JAVA - JOptionPane #alert #mensaje #modal](https://www.youtube.com/watch?v=itKwHjBFbLE)
 <!-- BLOG-POST-LIST:END -->
