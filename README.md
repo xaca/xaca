@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 -->
 📺 Youtube channel
 <!-- BLOG-POST-LIST:START -->
+- [49 - Curso Programación JAVA - Modelo relacional](https://www.youtube.com/watch?v=D7xwUzQItNk)
 - [48 - Curso Programación JAVA - Teoria sobre Base de datos](https://www.youtube.com/watch?v=oTXWUetCrP4)
 - [47 - Curso Programación JAVA - JMenu #menu #item #look #feel #java](https://www.youtube.com/watch?v=W885Y6cunjA)
 - [46 - Curso Programación JAVA - JComboBox](https://www.youtube.com/watch?v=eqPwH06le3E)
 - [45 - Curso Programación JAVA - JRadioButton y JCheckBox #checkbox #radiobutton #buttongroup](https://www.youtube.com/watch?v=pV8_HDWZyY8)
-- [44 - Curso Programación JAVA - JPanel #panel #container #java](https://www.youtube.com/watch?v=-p1kjshWXAA)
 <!-- BLOG-POST-LIST:END -->
