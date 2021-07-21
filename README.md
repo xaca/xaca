@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 -->
 📺 Youtube channel
 <!-- BLOG-POST-LIST:START -->
+- [52 - Curso Programación JAVA - Creación base datos](https://www.youtube.com/watch?v=jZoljYB09M0)
 - [51 - Curso Programación JAVA - Configuración de Laragon, Mysql y phpmyadmin #phpmyadmin #mysql #sql](https://www.youtube.com/watch?v=z1Hsqr9Fsdw)
 - [50 - Curso Programación JAVA - SQL #sql #tabla #consulta](https://www.youtube.com/watch?v=JYZiH2ZFtbg)
 - [49 - Curso Programación JAVA - Modelo relacional](https://www.youtube.com/watch?v=D7xwUzQItNk)
 - [48 - Curso Programación JAVA - Teoria sobre Base de datos](https://www.youtube.com/watch?v=oTXWUetCrP4)
-- [47 - Curso Programación JAVA - JMenu #menu #item #look #feel #java](https://www.youtube.com/watch?v=W885Y6cunjA)
 <!-- BLOG-POST-LIST:END -->
