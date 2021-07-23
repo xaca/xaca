@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 -->
 📺 Youtube channel
 <!-- BLOG-POST-LIST:START -->
+- [06 - Matricula estudiantes grupo Teams en 5 minutos #teams #registro #grupo #estudiantes #mail](https://www.youtube.com/watch?v=IiEeemmy33U)
 - [53 - Curso Programación JAVA - Configuración a base de datos](https://www.youtube.com/watch?v=kznTI3Xx1FA)
 - [19 - Dev Tools - Git merge automático #git #merge #automatico](https://www.youtube.com/watch?v=Qcznl1NF7bQ)
 - [52 - Curso Programación JAVA - Creación base datos](https://www.youtube.com/watch?v=jZoljYB09M0)
 - [51 - Curso Programación JAVA - Configuración de Laragon, Mysql y phpmyadmin #phpmyadmin #mysql #sql](https://www.youtube.com/watch?v=z1Hsqr9Fsdw)
-- [50 - Curso Programación JAVA - SQL #sql #tabla #consulta](https://www.youtube.com/watch?v=JYZiH2ZFtbg)
 <!-- BLOG-POST-LIST:END -->
