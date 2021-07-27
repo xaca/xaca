@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 -->
 📺 Youtube channel
 <!-- BLOG-POST-LIST:START -->
+- [20 - Dev Tools - Git branch #git #branch](https://www.youtube.com/watch?v=u-xyFgPAZY0)
 - [54 - Curso Programación JAVA - Carga Datos Interfaz Gráfica #db #sql](https://www.youtube.com/watch?v=CQ4ScXK26dI)
 - [06 - Matricula estudiantes grupo Teams en 5 minutos #teams #registro #grupo #estudiantes #mail](https://www.youtube.com/watch?v=IiEeemmy33U)
 - [53 - Curso Programación JAVA - Configuración a base de datos](https://www.youtube.com/watch?v=kznTI3Xx1FA)
 - [19 - Dev Tools - Git merge automático #git #merge #automatico](https://www.youtube.com/watch?v=Qcznl1NF7bQ)
-- [52 - Curso Programación JAVA - Creación base datos](https://www.youtube.com/watch?v=jZoljYB09M0)
 <!-- BLOG-POST-LIST:END -->
