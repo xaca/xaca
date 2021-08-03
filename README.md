@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 -->
 📺 Youtube channel
 <!-- BLOG-POST-LIST:START -->
+- [57 - Curso Programación JAVA - Java Read #mysql #java](https://www.youtube.com/watch?v=kAtCy6213dk)
 - [56 - Curso Programación JAVA - Java Create #crud #create #mysql #java](https://www.youtube.com/watch?v=nGsw1EWkHDQ)
 - [55 - Curso Programación JAVA - Clave Foranea #foreign #key #java #mysql](https://www.youtube.com/watch?v=eBbR5cX7eCM)
 - [20 - Dev Tools - Git branch #git #branch](https://www.youtube.com/watch?v=u-xyFgPAZY0)
 - [54 - Curso Programación JAVA - Carga Datos Interfaz Gráfica #db #sql](https://www.youtube.com/watch?v=CQ4ScXK26dI)
-- [06 - Matricula estudiantes grupo Teams en 5 minutos #teams #registro #grupo #estudiantes #mail](https://www.youtube.com/watch?v=IiEeemmy33U)
 <!-- BLOG-POST-LIST:END -->
