@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 -->
 📺 Youtube channel
 <!-- BLOG-POST-LIST:START -->
+- [01- Programación Web - Introducción #browser #navegador](https://www.youtube.com/watch?v=rRQhyUIHm50)
 - [04 - Javascript 101 - Ciclos #javascript #ciclos](https://www.youtube.com/watch?v=Zp4ZrLpUmog)
 - [60 - Curso Programación JAVA - Mysql Backup #mysql #import #export](https://www.youtube.com/watch?v=APZ9Jlj5scY)
 - [59 - Curso Programación JAVA - Java Delete #crud #java #mysql #delete](https://www.youtube.com/watch?v=YagbprsHU18)
 - [58 - Curso Programación JAVA - Java Update #mysql #java #update #crud](https://www.youtube.com/watch?v=5OQu1l_ph8k)
-- [57 - Curso Programación JAVA - Java Read #mysql #java](https://www.youtube.com/watch?v=kAtCy6213dk)
 <!-- BLOG-POST-LIST:END -->
