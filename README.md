@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 -->
 📺 Youtube channel
 <!-- BLOG-POST-LIST:START -->
+- [07 Programacion Web Html formulario 1 2](https://www.youtube.com/watch?v=XhtOSH0xDfQ)
 - [06 - Programación Web - Multimedia #html #pixabay #cloudinary #converter #codepen](https://www.youtube.com/watch?v=5wlm8q0SepY)
 - [05 - Programación Web - Otras etiquetas html #html #web](https://www.youtube.com/watch?v=E2Pzgps2Hh4)
 - [04 - Programación Web - Repositorio #git #github #repositorio](https://www.youtube.com/watch?v=2-SakP04bB4)
 - [03 - Programación Web - Etiquetas HTML básicas y  encabezados #html #web #primeros #pasos](https://www.youtube.com/watch?v=eyqMj1EqYLA)
-- [02 - Programacion Web - Herramientas](https://www.youtube.com/watch?v=76e86qZdBUM)
 <!-- BLOG-POST-LIST:END -->
