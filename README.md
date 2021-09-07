@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 -->
 📺 Youtube channel
 <!-- BLOG-POST-LIST:START -->
+- [14 - Programación Web - CSS Centrado #center #align #alineacion #centro](https://www.youtube.com/watch?v=GHvshVWjHk8)
 - [13 - Programación Web - z-index](https://www.youtube.com/watch?v=sJMc95Uysr4)
 - [12 - Programación Web - CSS Position #absolute #relative #fixed](https://www.youtube.com/watch?v=NRVWOzREmL0)
 - [11 - Programación Web - CSS display, clases y color](https://www.youtube.com/watch?v=sgp7J5iV03U)
 - [10 - Programación Web - Estilos - Selectores CSS  2/2](https://www.youtube.com/watch?v=Gpa5fLC8G5I)
-- [09 - Programación Web - Estilos - Selectores CSS 1/2 #css #selectores](https://www.youtube.com/watch?v=q3MxszH9NJo)
 <!-- BLOG-POST-LIST:END -->
