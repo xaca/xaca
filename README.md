@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 -->
 📺 Youtube channel
 <!-- BLOG-POST-LIST:START -->
+- [16 - Programación Web - CSS Flexbox #flexbox #css](https://www.youtube.com/watch?v=DNXkgr6xFbo)
 - [15 - Programación Web - Texto, Modelo Caja y Tipografia #font #box #model](https://www.youtube.com/watch?v=V5blAuI4X2s)
 - [14 - Programación Web - CSS Centrado #center #align #alineacion #centro](https://www.youtube.com/watch?v=GHvshVWjHk8)
 - [13 - Programación Web - z-index](https://www.youtube.com/watch?v=sJMc95Uysr4)
 - [12 - Programación Web - CSS Position #absolute #relative #fixed](https://www.youtube.com/watch?v=NRVWOzREmL0)
-- [11 - Programación Web - CSS display, clases y color](https://www.youtube.com/watch?v=sgp7J5iV03U)
 <!-- BLOG-POST-LIST:END -->
