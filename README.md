@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 -->
 📺 Youtube channel
 <!-- BLOG-POST-LIST:START -->
+- [19 - Programación Web - HTML + CSS + Javascript (Templates) #templates](https://www.youtube.com/watch?v=ODkRbn60lUo)
 - [18 - Programación Web - CSS - Media Queries #media #queries #css](https://www.youtube.com/watch?v=zpRVSoNCvwc)
 - [20 - Aplicaciones moviles - Capacitor](https://www.youtube.com/watch?v=4_BNDDMjVb8)
 - [17 - Programación Web - GridLayout](https://www.youtube.com/watch?v=pe8vSzBG33k)
 - [16 - Programación Web - CSS Flexbox #flexbox #css](https://www.youtube.com/watch?v=DNXkgr6xFbo)
-- [15 - Programación Web - Texto, Modelo Caja y Tipografia #font #box #model](https://www.youtube.com/watch?v=V5blAuI4X2s)
 <!-- BLOG-POST-LIST:END -->
