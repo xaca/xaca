@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 -->
 📺 Youtube channel
 <!-- BLOG-POST-LIST:START -->
+- [07 - Javascript 101 - Entrada y Salida #input #output #javascript](https://www.youtube.com/watch?v=bwikk778jN4)
 - [06 - Javascript 101 - Referencia #javascript](https://www.youtube.com/watch?v=v7l2iNGlxNQ)
 - [05 - Javascript 101 - MVC #mvc](https://www.youtube.com/watch?v=gz83P7hBQ1w)
 - [20 - Programación Web - CSS Battle, Overflow, cheat sheets](https://www.youtube.com/watch?v=H-QbwUHR2Yo)
 - [19 - Programación Web - HTML + CSS + Javascript (Templates) #templates](https://www.youtube.com/watch?v=ODkRbn60lUo)
-- [18 - Programación Web - CSS - Media Queries #media #queries #css](https://www.youtube.com/watch?v=zpRVSoNCvwc)
 <!-- BLOG-POST-LIST:END -->
