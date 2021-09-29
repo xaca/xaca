@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 -->
 📺 Youtube channel
 <!-- BLOG-POST-LIST:START -->
+- [12 - Javascript 101- Funciones #javascript #function](https://www.youtube.com/watch?v=vla6YNNC2hE)
 - [11 - Javascript 101 - Cadenas](https://www.youtube.com/watch?v=EWNq4JWwTQc)
 - [10 - Javascript 101 - Arrays #arreglos #arrays #javascript](https://www.youtube.com/watch?v=zB3xm1MpiDI)
 - [09 - Javascript 101 - Switch](https://www.youtube.com/watch?v=IfUj-1blD2E)
 - [08 - Javascript101 -  truthy, falsy / otros valores verdaderos y falsos](https://www.youtube.com/watch?v=2IUqe_ASkt0)
-- [07 - Javascript 101 - Entrada y Salida #input #output #javascript](https://www.youtube.com/watch?v=bwikk778jN4)
 <!-- BLOG-POST-LIST:END -->
