@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 -->
 📺 Youtube channel
 <!-- BLOG-POST-LIST:START -->
+- [16 - Javascriot 101 - JSON #javascript #json](https://www.youtube.com/watch?v=QRcsDBkdYow)
 - [15 - Javascript 101 - Relaciones entre clases #javascript #class](https://www.youtube.com/watch?v=kg1sppwjmy4)
 - [14 - Javascript 101 - Clases y objetos #javascript #class #object](https://www.youtube.com/watch?v=leLIrOUYwgk)
 - [13 - Javascript 101 - Eventos #event #listener](https://www.youtube.com/watch?v=7Tp-jsG1mrk)
 - [12 - Javascript 101- Funciones #javascript #function](https://www.youtube.com/watch?v=vla6YNNC2hE)
-- [11 - Javascript 101 - Cadenas](https://www.youtube.com/watch?v=EWNq4JWwTQc)
 <!-- BLOG-POST-LIST:END -->
