@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 -->
 📺 Youtube channel
 <!-- BLOG-POST-LIST:START -->
+- [19 - Javascript 101 - Fetch](https://www.youtube.com/watch?v=n8xZdGGLcrQ)
 - [18 - Javascript 101 - Administrador Paquetes #npm #node](https://www.youtube.com/watch?v=B2FmuozyzAw)
 - [17 - Javascript 101 - Manipulación DOM #javascript #dom #class](https://www.youtube.com/watch?v=sMlBdpl8Bok)
 - [16 - Javascriot 101 - JSON #javascript #json](https://www.youtube.com/watch?v=QRcsDBkdYow)
 - [15 - Javascript 101 - Relaciones entre clases #javascript #class](https://www.youtube.com/watch?v=kg1sppwjmy4)
-- [14 - Javascript 101 - Clases y objetos #javascript #class #object](https://www.youtube.com/watch?v=leLIrOUYwgk)
 <!-- BLOG-POST-LIST:END -->
