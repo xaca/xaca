@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 -->
 📺 Youtube channel
 <!-- BLOG-POST-LIST:START -->
+- [20 - Javascript 101 - NodeJs localhost #nodejs #js #localhost #express](https://www.youtube.com/watch?v=8ZetMnK8dbs)
 - [Grupo de estudio - S01E03](https://www.youtube.com/watch?v=CeRik7S9D54)
 - [Grupo de estudio - S01E01](https://www.youtube.com/watch?v=XHk8JMF6cMQ)
 - [19 - Javascript 101 - Fetch](https://www.youtube.com/watch?v=n8xZdGGLcrQ)
 - [18 - Javascript 101 - Administrador Paquetes #npm #node](https://www.youtube.com/watch?v=B2FmuozyzAw)
-- [17 - Javascript 101 - Manipulación DOM #javascript #dom #class](https://www.youtube.com/watch?v=sMlBdpl8Bok)
 <!-- BLOG-POST-LIST:END -->
