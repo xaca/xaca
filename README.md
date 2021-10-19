@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 -->
 📺 Youtube channel
 <!-- BLOG-POST-LIST:START -->
+- [22 - Javascript 101- Insertar #nodejs #mysql](https://www.youtube.com/watch?v=JAPmhISizow)
 - [21 - Javascript 101 - Conexion Mysql](https://www.youtube.com/watch?v=_YEVBKoiSUo)
 - [20 - Javascript 101 - NodeJs localhost #nodejs #js #localhost #express](https://www.youtube.com/watch?v=8ZetMnK8dbs)
 - [Grupo de estudio - S01E03](https://www.youtube.com/watch?v=CeRik7S9D54)
 - [Grupo de estudio - S01E01](https://www.youtube.com/watch?v=XHk8JMF6cMQ)
-- [19 - Javascript 101 - Fetch](https://www.youtube.com/watch?v=n8xZdGGLcrQ)
 <!-- BLOG-POST-LIST:END -->
