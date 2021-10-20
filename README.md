@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 -->
 📺 Youtube channel
 <!-- BLOG-POST-LIST:START -->
+- [23 - Javascript 101 - Borrar registro #nodejs #mysql #javascript](https://www.youtube.com/watch?v=8GJOMJ4KPGE)
 - [Grupo de estudio - S01E04](https://www.youtube.com/watch?v=9PfWTbiMH34)
 - [22 - Javascript 101- Insertar #nodejs #mysql](https://www.youtube.com/watch?v=JAPmhISizow)
 - [21 - Javascript 101 - Conexion Mysql](https://www.youtube.com/watch?v=_YEVBKoiSUo)
 - [20 - Javascript 101 - NodeJs localhost #nodejs #js #localhost #express](https://www.youtube.com/watch?v=8ZetMnK8dbs)
-- [Grupo de estudio - S01E03](https://www.youtube.com/watch?v=CeRik7S9D54)
 <!-- BLOG-POST-LIST:END -->
