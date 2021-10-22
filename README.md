@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 -->
 📺 Youtube channel
 <!-- BLOG-POST-LIST:START -->
+- [25 - Javascript 101 - Cloud9 AWS #nodejs #aws #deploy #mysql](https://www.youtube.com/watch?v=SdaaRsT8YWA)
 - [24  - Javascript 101 - Actualizar #nodejs #update #nodemon](https://www.youtube.com/watch?v=GMdyHpTeQbo)
 - [23 - Javascript 101 - Borrar registro #nodejs #mysql #javascript](https://www.youtube.com/watch?v=8GJOMJ4KPGE)
 - [Grupo de estudio - S01E04](https://www.youtube.com/watch?v=9PfWTbiMH34)
 - [22 - Javascript 101- Insertar #nodejs #mysql](https://www.youtube.com/watch?v=JAPmhISizow)
-- [21 - Javascript 101 - Conexion Mysql](https://www.youtube.com/watch?v=_YEVBKoiSUo)
 <!-- BLOG-POST-LIST:END -->
