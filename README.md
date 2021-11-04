@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 -->
 📺 Youtube channel
 <!-- BLOG-POST-LIST:START -->
+- [20 - Aplicaciones moviles - Capacitor](https://www.youtube.com/watch?v=4_BNDDMjVb8)
 - [06 - Matricula estudiantes grupo Teams en 5 minutos #teams #registro #grupo #estudiantes #mail](https://www.youtube.com/watch?v=IiEeemmy33U)
 - [05 - Genially - Creación de una presentación desde cero #genially #diseño #design #imagen #editar](https://www.youtube.com/watch?v=SAF5vYCQeTc)
 - [04 - Moodle - Publicar video de youtube en foro #moodle #html #youtube](https://www.youtube.com/watch?v=Nt7GSqk4hCA)
 - [21 - Curso Programación JAVA - Instalacion windows 10 - Win10 install](https://www.youtube.com/watch?v=5cScIi8bWuc)
-- [03 - Moodle - Recalificar examen #moodle #recalificar #cuestionario #examen](https://www.youtube.com/watch?v=qlZNoZQ0IuY)
 <!-- BLOG-POST-LIST:END -->
