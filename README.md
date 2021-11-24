@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 -->
 📺 Youtube channel
 <!-- BLOG-POST-LIST:START -->
+- [01 - Node js Mongo App - Configuración #express #nodemon #node](https://www.youtube.com/watch?v=ssI9IuYhVOY)
 - [20 - Aplicaciones moviles - Capacitor](https://www.youtube.com/watch?v=4_BNDDMjVb8)
 - [06 - Matricula estudiantes grupo Teams en 5 minutos #teams #registro #grupo #estudiantes #mail](https://www.youtube.com/watch?v=IiEeemmy33U)
 - [17 - Dev Tools - Github pages #github #pages #html #pagina](https://www.youtube.com/watch?v=chkAAMCzJ_0)
 - [05 - Genially - Creación de una presentación desde cero #genially #diseño #design #imagen #editar](https://www.youtube.com/watch?v=SAF5vYCQeTc)
-- [04 - Moodle - Publicar video de youtube en foro #moodle #html #youtube](https://www.youtube.com/watch?v=Nt7GSqk4hCA)
 <!-- BLOG-POST-LIST:END -->
