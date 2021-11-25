@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 -->
 📺 Youtube channel
 <!-- BLOG-POST-LIST:START -->
+- [02 - Node Js - Mongo DB - Configuración base de datos NOSQL](https://www.youtube.com/watch?v=Hg5-Q57j1g4)
 - [01 - Node js Mongo App - Configuración #express #nodemon #node](https://www.youtube.com/watch?v=ssI9IuYhVOY)
 - [20 - Aplicaciones moviles - Capacitor](https://www.youtube.com/watch?v=4_BNDDMjVb8)
 - [06 - Matricula estudiantes grupo Teams en 5 minutos #teams #registro #grupo #estudiantes #mail](https://www.youtube.com/watch?v=IiEeemmy33U)
 - [17 - Dev Tools - Github pages #github #pages #html #pagina](https://www.youtube.com/watch?v=chkAAMCzJ_0)
-- [05 - Genially - Creación de una presentación desde cero #genially #diseño #design #imagen #editar](https://www.youtube.com/watch?v=SAF5vYCQeTc)
 <!-- BLOG-POST-LIST:END -->
