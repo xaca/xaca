@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 -->
 📺 Youtube channel
 <!-- BLOG-POST-LIST:START -->
+- [06 - Node js - Mongo DB - Find #mongo #node #js](https://www.youtube.com/watch?v=1XFED-ybj5s)
 - [Filtrado de datos en Android](https://www.youtube.com/watch?v=4cF6NnAZRlQ)
 - [05 - Node js - Mongo DB - Mongoose](https://www.youtube.com/watch?v=xN3nqp00h9w)
 - [04 - Node js -  Mongo DB - Servicio](https://www.youtube.com/watch?v=xwAeUmCZWZ8)
 - [03 - Node js - Mongo DB - CRUD Consola](https://www.youtube.com/watch?v=GCIN045mKDc)
-- [02 - Node Js - Mongo DB - Configuración base de datos NOSQL](https://www.youtube.com/watch?v=Hg5-Q57j1g4)
 <!-- BLOG-POST-LIST:END -->
