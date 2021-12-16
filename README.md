@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 -->
 📺 Youtube channel
 <!-- BLOG-POST-LIST:START -->
+- [09 - Node js - Mongo DB - Actualizar #mongo #node #js](https://www.youtube.com/watch?v=OULxsdol0CM)
 - [Grupo de estudio - S01E05](https://www.youtube.com/watch?v=KDoCD0KkTsI)
 - [08 - Node js - Mongo DB - Borrar #mongo #node #js](https://www.youtube.com/watch?v=jx0AYeIcf3I)
 - [07 - Node js - Mongo DB - Insertar #mongo #node #js](https://www.youtube.com/watch?v=xSB_pty_HEQ)
 - [06 - Node js - Mongo DB - Find #mongo #node #js](https://www.youtube.com/watch?v=1XFED-ybj5s)
-- [Filtrado de datos en Android](https://www.youtube.com/watch?v=4cF6NnAZRlQ)
 <!-- BLOG-POST-LIST:END -->
