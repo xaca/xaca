@@ -6,13 +6,13 @@
 Here are some ideas to get you started:
 -->
 
-- 🌱 I’m currently learning / Estoy aprendiendo: Figma, Laravel, CSS, Android
+- 🌱 I’m currently learning / Estoy aprendiendo: Figma, Laravel, CSS, Kotlin
 - 🤔 I’m looking for help with My repos / Busco ayuda con mis repositorios
 - 💬 Ask me about / Preguntame acerca de: HTML, CSS, JS & programming 
 - 📫 How to reach me / Como contactarme: and1res@hotmail.com
 
 🏆 Mis gustos
-- 👨‍💻 Programación (java, C#, javascript, php)
+- 👨‍💻 Programación (java, C#, javascript, php, kotlin)
 - 🖼️ Graffiti / Stickers
 - 📚 Leer libros de tecnología e innovación
 - 💢 Comics (Fanzines, autobiografías, publicaciones independientes)
